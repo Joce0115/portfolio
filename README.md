@@ -46,3 +46,14 @@
 
 
 # Worksheet is a game where the user needs to try to guess a random number between 0-10 if they guess correctly they win  the game. if the number they inputed didn't match the number that the game picked then the progam will tell the user if their number was a smaller/bigger number and it tells them what the correct answer. The user can play this game unlimited time up until they decide they no longer want to play.
+
+
+#16boolean
+#28 simple calc
+#29 pokemon
+#33 madlibs
+#41 list methods
+#42 to-do list 
+#43 magic 8 ball
+#50 word count
+#project final
