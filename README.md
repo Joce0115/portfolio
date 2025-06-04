@@ -48,12 +48,29 @@
 # Worksheet is a game where the user needs to try to guess a random number between 0-10 if they guess correctly they win  the game. if the number they inputed didn't match the number that the game picked then the progam will tell the user if their number was a smaller/bigger number and it tells them what the correct answer. The user can play this game unlimited time up until they decide they no longer want to play.
 
 
-#16boolean
-#28 simple calc
-#29 pokemon
-#33 madlibs
-#41 list methods
-#42 to-do list 
-#43 magic 8 ball
-#50 word count
-#project final
+# 16boolean it is just a bunch of true/false statments with restriction. The user needs to input for info that the code is asking for and if it is true the user will get returned in "true" if not then the user will get a "false" in return.
+
+
+# 28 simple calc it is a calculator. the user has to select a numeber that correlates with the type of math equation they want to solve. after that the user needs to input the numebrs for the education and the computer will solve it and output the answer.
+
+
+# 29 pokemon the player has to play mutiple times to try to evolve their pokemon to be more powerful. BY doing that the user needs to reach a certain level before their popkemon is updated.
+
+
+# 33 madlibs it is basically a story but the user needs to put in a few inputs and once they have they will get the full story with their inputs in it. 
+
+
+# 41 list methods is some notes of how items can be added, removed, replacec, inputed into a specific place, and print certain item(s) from the list. 
+
+
+# 42 to-do list is a program that helps the user with their shopping list. They can view, add, and delete certain items from the list they can even quit seeing their list. 
+
+
+# 43 magic 8 ball is a magic 8 ball. the user asks a question and then the program will randomly select a number that will have an answer for the user. the user can ask as many questions as they want and they can even stop playing when they want to and the program will say goodbye.
+
+
+# 50 word count this program  counts the amount of words in the sentense the user inputed. it also shows you the words that the program is counting.
+
+
+# Project final this is a netflix reccommender. there are lists, loops, and if/elif statments. the program requires the users age to then which based on their age they will only be able to be recommended a movie or tv-show with that specific rating. After the user is asked if they want to watch a movie or tv-show once the user inputs that they will be asked what type of genre they want to watch. All of these inputs are being filtered into an empty list. Once the last input is put in the program will give the use a reccomendationn. and if there is nothing the program will notify the user apoligizing for not having anthing to reccomend them.  
+
